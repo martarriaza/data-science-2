@@ -41,7 +41,7 @@
    - Students to fill the lines below, commit and push the changes
    
          Year of study: 2023
-         Number of lectures today: 8
+         Number of lectures today: 4
 
 # Prerequisites for the following practicals 
 
